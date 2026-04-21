@@ -1,6 +1,0 @@
-GEMINI_API_KEY="AIzaSyBR4S8sOL-cDKrwF3sX_BvqpDBtsND5GJs"
-
-SF_USERNAME="supriyo.seni.ck.32d7352a782a@agentforce.com"
-SF_PASSWORD="Supriyo1999@"
-SF_SECURITY_TOKEN="Pd8cdbtleM1UbRinQI9KSOVbY"
-SF_INSTANCE_URL="https://orgfarm-e78e53cf4c-dev-ed.develop.my.salesforce.com"
