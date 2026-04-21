@@ -1,0 +1,8 @@
+streamlit
+langgraph>=0.0.30
+langchain>=0.1.0
+python-dotenv
+requests
+google-genai
+simple-salesforce
+typing-extensions
